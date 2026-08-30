@@ -4,7 +4,7 @@ export const PERSON = {
   lastName: "Sonawane",
   field: "Computer Science Engineering",
   email: "radha118223@gmail.com",
-  phone: "+91-9145193340",
+  phone: "+91-6206825865",
   linkedin: "https://www.linkedin.com/",
   github: "https://github.com/",
 };
